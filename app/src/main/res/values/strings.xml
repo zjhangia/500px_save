@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">500pxSave</string>
+    <string name="action_settings">Settings</string>
+    <string name="download_manager_disabled_title">Download Manger Disabled</string>
+    <string name="download_manager_disabled_content"></string>
+    <string name="invalid_url">Invalid Url Please Check Again</string>
+    <string name="unknown_error">Unkown Error</string>
+    <string name="parser_html_null">Do not parser the html</string>
+    <string name="get_html_null">Do not get the html</string>
+    <string name="about">\t\tDo you like the 500px pictures, and want to set the picture as your wallpaper. Now you can use this app to download pictures from 500px. Next time when you take pictures you may know how to set your camera. Good luck! PS. Please do not use the pictures for your business only if you get permission from the author.
+        If you really like the pictures please buy them form the author.This is the first version I will add more functions in the upgrade.</string>
+    <string name="fyi">FYI:\n\t\t1.\tPlease install the official 500px app and ensure to get the storage permission otherwise it will fail to work.
+        \n\n\t\t2.\tThe speed depends on your network I test the app on my phone (OnePlus 3t, Moto xt1095), it works fine. So please be patient.
+        \n\n\t\t3.\tIf you download the pictures starting with  \" . \" , the file will be hidden, so please ensure you can see the hidden file in your file setting.
+        \n\n\t\t4.\tThe pictures will be saved in the folder 500pxSave.
+        \n\n\t\t5.\tIf you really like the pictures, please contact the authors and pay them. As a photographer myself, it is a really hard work.
+    </string>
+    <string name="test">At a briefing to reporters at the State Department, Secretary of State Rex Tillerson said the Trump administration continues to evaluate the Joint Comprehensive Plan of Action, the nuclear deal with Iran known as the JCPOA:
+
+“In particular were working with the other parties to that agreement, our European allies in particular, to ensure that we are fully enforcing all aspects of that agreement, holding Iran accountable for its commitments, and challenging whether Iran is, in fact, living up to its commitments and the spirit of that agreement.
+
+Iran is continuing to engage in destabilizing behavior in the region, however, and Secretary Tillerson emphasized that the threat of a nuclear-armed Iran is just one of many threats posed by the Islamic Republic:
+
+"Whether it be their ongoing ballistic missile programs, their export of terrorism, their export of instability in Yemen, their export of foreign fighters into Iraq and Syria.”
+
+Secretary of State Tillerson said Iran's leaders “are persistent in their efforts to exert their influence across the Middle East, and it is our intent, working with our allies in the region to push back on Iran's expansionist efforts to destabilize areas.”
+
+Such push back, Secretary Tillerson said, “is consistent with our efforts to stop Islamic extremism in all its forms.” In support of that goal, the United States will continue its “proactive approach...to preventing Iran from developing nuclear weapons...and from fomenting terrorism and building influence outside of [its] borders.”</string>
+</resources>
